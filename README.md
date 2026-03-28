@@ -6,7 +6,6 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-orange)
 
-**Status:** Complete | **License:** MIT | **Last Updated:** March 2026
 ## 📖 Overview
 This project documents the deployment of a **Wazuh SIEM** in a home lab environment for security monitoring, log analysis, and incident response training. The setup includes a Wazuh manager, indexed logs via OpenSearch, and multiple monitored endpoints.
 ## 🛠️ Technologies Used
